@@ -23,6 +23,7 @@ Accordion.Title = function AccordionTitle({ children, ...restProps }) {
 };
 
 Accordion.Item = function AccordionItem({ children, ...restProps }) {
+	// accordion toggle useState
 	const [toggleShow, setToggleShow] = useState(false);
 	return (
 		<ToggleContext.Provider value={{ toggleShow, setToggleShow }}>
