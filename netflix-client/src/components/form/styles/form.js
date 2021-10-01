@@ -86,6 +86,10 @@ export const Submit = styled.button`
 	color: white;
 	cursor: pointer;
 
+	&:hover {
+		background-color: #f40612;
+	}
+
 	&:disabled {
 		opacity: 0.5;
 	}

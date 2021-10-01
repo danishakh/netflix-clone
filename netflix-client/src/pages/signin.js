@@ -5,7 +5,6 @@ import { FooterContainer } from "../containers/footer";
 import { HeaderContainer } from "../containers/header";
 import { Form } from "../components";
 import * as ROUTES from "../constants/routes";
-import { Link as ReactRouterLink } from "react-router-dom";
 
 export default function Signin() {
 	const { firebase } = useContext(FirebaseContext);
