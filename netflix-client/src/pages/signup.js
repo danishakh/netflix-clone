@@ -25,6 +25,7 @@ export default function Signup() {
 			.auth()
 			.createUserWithEmailAndPassword(email, password)
 			.then((result) => {
+				// update the user's profile pic
 				result.user
 					.updateProfile({
 						firstName: firstName,
