@@ -28,7 +28,7 @@ export default function Signup() {
 				// update the user's profile pic
 				result.user
 					.updateProfile({
-						firstName: firstName,
+						displayName: firstName,
 						photoURL: Math.floor(Math.random() * 5) + 1,
 					})
 					.then(() => {
