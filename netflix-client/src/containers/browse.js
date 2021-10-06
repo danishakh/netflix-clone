@@ -8,6 +8,7 @@ import logo from '../logo.svg'
 export function BrowseContainer({ slides }) {
     const [profile, setProfile] = useState({})
     const [loading, setLoading] = useState(true)
+    const [searchTerm, setSearchTerm] = useState('')
     
     const { firebase } = useContext(FirebaseContext)
     const user = firebase.auth().currentUser || {};
@@ -35,6 +36,7 @@ export function BrowseContainer({ slides }) {
                         <Header.TextLink>Movies</Header.TextLink>
                     </Header.Group>
                     <Header.Group>
+                        <Header.Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
                         <Header.Profile>
                             <Header.Picture src={user.photoURL} />
                             <Header.Dropdown>
@@ -56,6 +58,7 @@ export function BrowseContainer({ slides }) {
                         Arthur wears two masks -- the one he paints for his day job as a clown, and the
                         guise he projects in a futile attempt to feel like he's part of the world around him.
                     </Header.Text>
+                    <Header.PlayButton>Play Now</Header.PlayButton>
                 </Header.Feature>
             </Header>
         </>
