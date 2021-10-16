@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders the <Footer /> with populated data 1`] = `
+<div
+  class="footer__Container-sc-ufej81-0 jIldye"
+>
+  <p
+    class="footer__Title-sc-ufej81-4 ekHhmc"
+  >
+    Questions? Contact us!
+  </p>
+  <p
+    class="footer__Break-sc-ufej81-6 jwCCbz"
+  />
+  <div
+    class="footer__Row-sc-ufej81-2 ePAZRu"
+  >
+    <div
+      class="footer__Column-sc-ufej81-1 gwSuYd"
+    >
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        FAQ
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Investor Relations
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Ways To Watch
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Corporate Information
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Netflix Originals
+      </a>
+    </div>
+    <div
+      class="footer__Column-sc-ufej81-1 gwSuYd"
+    >
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Help Center
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Jobs
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Terms of Use
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Contact us
+      </a>
+    </div>
+    <div
+      class="footer__Column-sc-ufej81-1 gwSuYd"
+    >
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Account
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Redeem Gift Cards
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Privacy
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Speedtest
+      </a>
+    </div>
+    <div
+      class="footer__Column-sc-ufej81-1 gwSuYd"
+    >
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Media Center
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Buy Gift Cards
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Cookie Preferences
+      </a>
+      <a
+        class="footer__Link-sc-ufej81-3 ecPbCy"
+        href="#"
+      >
+        Legal Notices
+      </a>
+    </div>
+  </div>
+  <p
+    class="footer__Break-sc-ufej81-6 jwCCbz"
+  />
+  <p
+    class="footer__Text-sc-ufej81-5 gUkYYt"
+  >
+    Netflix United States
+  </p>
+</div>
+`;
