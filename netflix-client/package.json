@@ -61,7 +61,8 @@
     "coverageReporters": [
       "html",
       "text"
-    ]
+    ],
+    "resetMocks": false
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.4",
