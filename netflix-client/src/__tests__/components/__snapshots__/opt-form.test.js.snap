@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OptForm /> renders the <OptForm /> with populated data 1`] = `
+<div
+  class="opt-form__Container-sc-4av052-0 fMLjIr"
+>
+  <input
+    class="opt-form__Input-sc-4av052-1 bKEgjC"
+    placeholder="Email Address"
+  />
+  <button
+    class="opt-form__Button-sc-4av052-2 ljRkqD"
+  >
+    Try it now
+     
+    <img
+      alt="Try Now"
+      src="/images/icons/chevron-right.png"
+    />
+  </button>
+  <div
+    class="opt-form__Break-sc-4av052-4 cNSAEd"
+  />
+  <p
+    class="opt-form__Text-sc-4av052-3 leuBIV"
+  >
+    Ready to watch? Enter your email to create or restart your membership.
+  </p>
+</div>
+`;

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Profiles /> renders the <Profiles /> with populated data 1`] = `
+<div
+  class="profiles__Container-sc-1wnd71h-0 jTnGic"
+>
+  <h1
+    class="profiles__Title-sc-1wnd71h-1 jCRVKF"
+  >
+    Who's watching?
+  </h1>
+  <ul
+    class="profiles__List-sc-1wnd71h-2 fBuFJw"
+  >
+    <li
+      class="profiles__Item-sc-1wnd71h-5 jFdEtq"
+    >
+      <img
+        class="profiles__Picture-sc-1wnd71h-4 kZeYlL"
+        data-testid="profile-picture"
+        src="/images/users//images/karl.png.png"
+      />
+      <p
+        class="profiles__Name-sc-1wnd71h-3 djxzCl"
+      >
+        John Cena
+      </p>
+    </li>
+  </ul>
+</div>
+`;
